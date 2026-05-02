@@ -9,8 +9,6 @@ On-device live dictation pipline for tarui + React apps using:
 
 This crate is designed to be used by a Tauri app, CLI, or any Rust application without depending directly on Tauri
 
----
-
 ## Features
 
 - Offline speech recognition
@@ -25,8 +23,6 @@ This crate is designed to be used by a Tauri app, CLI, or any Rust application w
   - capitalization
   - standalone `I`
 
----
-
 ## Requirements
 
 - Rust / Cargo
@@ -34,8 +30,6 @@ This crate is designed to be used by a Tauri app, CLI, or any Rust application w
 - A Whisper `ggml` model file
 - macOS: Xcode Command Line Tools
 - Optional: FFmpeg for converting audio samples
-
----
 
 ## Quickstart
 
