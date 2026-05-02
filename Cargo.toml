@@ -1,0 +1,32 @@
+[package]
+name = "inkblot-dictation"
+version = "0.1.0"
+edition = "2021"
+description = "Offline dictation pipeline using cpal, VAD chunking, and Whisper designed for tauri React apps."
+license = "MIT"
+repository = "https://github.com/YOUR_USERNAME/inkblot-dictation"
+
+[lib]
+name = "inkblot_dictation"
+path = "src/lib.rs"
+
+[features]
+default = []
+metal = ["whisper-rs/metal"]
+vulkan = ["whisper-rs/vulkan"]
+cuda = ["whisper-rs/cuda"]
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+tokio = { version = "1.48.0", features = ["sync", "rt-multi-thread", "time", "macros"] }
+thiserror = "2"
+uuid = { version = "1", features = ["v4", "serde"] }
+
+cpal = "0.17"
+parking_lot = "0.12"
+
+whisper-rs = { version = "0.14", default-features = false }
+
+hound = "3"

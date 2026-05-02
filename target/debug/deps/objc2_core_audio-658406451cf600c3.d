@@ -1,0 +1,10 @@
+/Users/gavin/inkblot-dictation/target/debug/deps/objc2_core_audio-658406451cf600c3.d: /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/lib.rs /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/mod.rs /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/AudioHardware.rs /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/AudioHardwareDeprecated.rs
+
+/Users/gavin/inkblot-dictation/target/debug/deps/libobjc2_core_audio-658406451cf600c3.rlib: /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/lib.rs /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/mod.rs /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/AudioHardware.rs /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/AudioHardwareDeprecated.rs
+
+/Users/gavin/inkblot-dictation/target/debug/deps/libobjc2_core_audio-658406451cf600c3.rmeta: /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/lib.rs /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/mod.rs /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/AudioHardware.rs /Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/AudioHardwareDeprecated.rs
+
+/Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/lib.rs:
+/Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/mod.rs:
+/Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/AudioHardware.rs:
+/Users/gavin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-core-audio-0.3.2/src/generated/AudioHardwareDeprecated.rs:
