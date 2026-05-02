@@ -5,7 +5,7 @@ edition = "2021"
 description = "Offline dictation pipeline using cpal, VAD chunking, and Whisper designed for tauri React apps."
 license = "MIT"
 repository = "https://github.com/g3vin/inkblot-dictation"
-x
+
 [lib]
 name = "inkblot_dictation"
 path = "src/lib.rs"
