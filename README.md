@@ -1,3 +1,3 @@
 # inkblot-dictation
 
-This repo is a live dictation pipline designed to work on-device for tarui + React apps.
+This repo is designed to work on-device for tarui + React apps as a live dictation pipline.
