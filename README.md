@@ -1,6 +1,6 @@
 # inkblot-dictation
 
-On-device live dictation pipline for tarui + React apps using:
+An on-device live dictation pipline for Tarui + React apps using:
 
 - `cpal` for microphone capture
 - simple VAD / silence detection for chunking
