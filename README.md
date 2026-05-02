@@ -43,6 +43,9 @@ This crate is designed to be used by a Tauri app, CLI, or any Rust application w
 brew install cmake ffmpeg
 mkdir -p models
 curl -L -o models/ggml-small.en.bin https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small.en.bin
+```
+and then run the crate:
+```bash
 cargo run --example live_dictation -- models/ggml-small.en.bin
 ```
 or if you're using MacOS:
